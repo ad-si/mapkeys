@@ -1,0 +1,16 @@
+{
+  "name": "mapkeys",
+  "description": "Remap keys form one object to another",
+  "version": "0.1.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Adrian Sieber",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "object",
+    "map",
+    "remap"
+  ]
+}
